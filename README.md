@@ -1,1 +1,5 @@
 # Smart-Traffic-Management-using-ML
+The given code is a Flask web project that lets users upload photos and uses the YOLOv5 model to identify number of vehicles in those images. The project consists of multiple parts, such as Flask routes, Python methods, and HTML templates. We will analyse the code and describe the functions of each part in this project.
+In summary, the given code is a Flask web project that allows users to upload pictures and uses the YOLOv5 model to identify number of vehicles or cars in the uploaded picture. Flask routes, Python functions, and HTML templates are some of the components that make up the project. The YOLOv5 model is used in the project to identify automobiles in photos, and the processing time is determined by the number of vehicles identified. This project provides an overview of how machine learning models can be used in web applications to carry out tasks like smart traffic management using image recognition
+![image](https://github.com/user-attachments/assets/fc866233-5b86-49ad-905e-d126bbc473ea)
+![image](https://github.com/user-attachments/assets/63dc32c6-2fcc-4f81-a78b-b323b91c16b5)
